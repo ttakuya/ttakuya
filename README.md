@@ -1,3 +1,5 @@
+## BOOK
+
 ### 2020
 
 - **NEW!** [基礎からのIT担当者リテラシー](https://gihyo.jp/book/2020/978-4-297-11720-7)
@@ -31,3 +33,8 @@
 ### 〜2017
 
 https://github.com/ttakuya/ttakuya/wiki
+
+## EVENT
+
+- [Sports Analyst Meetup](https://spoana.connpass.com/)
+- [金融エンジニア養成コミュニティ](https://fintech-engineer.connpass.com/)
