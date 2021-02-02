@@ -2,7 +2,7 @@
 
 ### 2021
 
-- NEW![Google Cloudではじめる実践データエンジニアリング入門]https://gihyo.jp/book/2021/978-4-297-11948-5
+- NEW! [Google Cloudではじめる実践データエンジニアリング入門](https://gihyo.jp/book/2021/978-4-297-11948-5)
 
 ### 2020
 
