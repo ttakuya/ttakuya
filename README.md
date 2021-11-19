@@ -2,7 +2,12 @@
 
 ### 2021
 
-- NEW! [Google Cloudではじめる実践データエンジニアリング入門](https://gihyo.jp/book/2021/978-4-297-11948-5)
+- NEW! [実践的データ基盤への処方箋](https://gihyo.jp/book/2021/978-4-297-12445-8)
+- [施策デザインのための機械学習入門](https://gihyo.jp/book/2021/978-4-297-12224-9)
+- [機械学習を解釈する技術](https://gihyo.jp/book/2021/978-4-297-12226-3)
+- [改訂2版 RユーザのためのRStudio[実践]入門](https://gihyo.jp/book/2021/978-4-297-12170-9)
+- [ユーザー中心組織論](https://gihyo.jp/book/2021/978-4-297-11997-3)
+- [Google Cloudではじめる実践データエンジニアリング入門](https://gihyo.jp/book/2021/978-4-297-11948-5)
 
 ### 2020
 
@@ -27,7 +32,7 @@
 
 ### 2018
 
-- [データサイエンティスト養成読本 ビジネス活用編](https://oshigoto.gihyo.co.jp/service/product/8432) 
+- [データサイエンティスト養成読本 ビジネス活用編](https://oshigoto.gihyo.co.jp/service/product/8432)
 - [Pythonで理解する統計解析の基礎](https://gihyo.jp/book/2018/978-4-297-10049-0)
 - [RユーザのためのRStudio[実践]入門](https://gihyo.jp/book/2018/978-4-7741-9853-8)
 - [前処理大全](https://gihyo.jp/book/2018/978-4-7741-9647-3)
