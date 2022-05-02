@@ -1,8 +1,13 @@
 ## BOOK
 
+### 2022
+
+- NEW!　[OpenCVではじめよう ディープラーニングによる画像認識](https://gihyo.jp/book/2022/978-4-297-12775-6)
+- NEW!　[Pythonで理解する微分積分の基礎](https://gihyo.jp/book/2022/978-4-297-12779-4)
+
 ### 2021
 
-- NEW! [実践的データ基盤への処方箋](https://gihyo.jp/book/2021/978-4-297-12445-8)
+- [実践的データ基盤への処方箋](https://gihyo.jp/book/2021/978-4-297-12445-8)
 - [施策デザインのための機械学習入門](https://gihyo.jp/book/2021/978-4-297-12224-9)
 - [機械学習を解釈する技術](https://gihyo.jp/book/2021/978-4-297-12226-3)
 - [改訂2版 RユーザのためのRStudio[実践]入門](https://gihyo.jp/book/2021/978-4-297-12170-9)
@@ -43,6 +48,11 @@
 ### 〜2017
 
 https://github.com/ttakuya/ttakuya/wiki
+
+## WEB
+
+- [「実践的データ基盤への処方箋の刊行にあたって」パネルディスカッションレポート](https://gihyo.jp/news/report/2022/02/0101)
+- [『機械学習を解釈する技術』＆『施策デザインのための機械学習入門』著者陣によるクロストーク](https://gihyo.jp/news/interview/01/ml_engineer)
 
 ## EVENT
 
