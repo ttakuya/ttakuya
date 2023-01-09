@@ -1,9 +1,17 @@
 ## BOOK
 
+### 2023
+
+- New！[評価指標入門](https://www.amazon.co.jp/dp/4297133148)
+- New！[Rユーザのためのtidymodels実践入門](https://gihyo.jp/book/2023/978-4-297-13236-1)
+
 ### 2022
 
-- NEW!　[OpenCVではじめよう ディープラーニングによる画像認識](https://gihyo.jp/book/2022/978-4-297-12775-6)
-- NEW!　[Pythonで理解する微分積分の基礎](https://gihyo.jp/book/2022/978-4-297-12779-4)
+- [Vision Transformer入門](https://gihyo.jp/book/2022/978-4-297-13058-9) 
+- [基礎からのWeb開発リテラシー](https://gihyo.jp/book/2022/978-4-297-12907-1) 
+- [OpenCVではじめよう ディープラーニングによる画像認識](https://gihyo.jp/book/2022/978-4-297-12775-6)
+- [Pythonで理解する微分積分の基礎](https://gihyo.jp/book/2022/978-4-297-12779-4)
+- [Rが生産性を高める](https://gihyo.jp/book/2022/978-4-297-12524-0)
 
 ### 2021
 
